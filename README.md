@@ -4,5 +4,5 @@
 
 
  Usage is:
-  For creating tarball: python tar_untar.py maketar <source_dir>  <outputfile_name>"
-  For extracting tarball: python tar_untar.py extracttar <tar_file_name>
+ For creating tarball: python tar_untar.py maketar <source_dir>  <outputfile_name>"
+ For extracting tarball: python tar_untar.py extracttar <tar_file_name>
